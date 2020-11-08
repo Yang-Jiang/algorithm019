@@ -15,11 +15,17 @@
 
 【刷题笔记】
 	【01】两数之和 https://leetcode-cn.com/problems/two-sum/ 需要把问题转换为寻找数组中的元素num[i]是否存在target-num[i]
+	
 	【21】合并两个有序链表 https://leetcode-cn.com/problems/merge-two-sorted-lists/ 递归/迭代，迭代需要额外的一个虚拟头结点
+	
 	【24】两两交换链表中的节点 https://leetcode-cn.com/problems/swap-nodes-in-pairs/ 递归/迭代，迭代需要额外的一个虚拟头结点
+	
 	【27】移除元素 https://leetcode-cn.com/problems/remove-element/ 这是第一道不看题解直接时间复杂度跟题解一样的题 双指针
+	
 	【66】加一 https://leetcode-cn.com/problems/plus-one/ 模拟计算时的进位思路，如果全部进位，则数组长度加一且首位一定是1
+	
 	【70】爬楼梯 https://leetcode-cn.com/problems/climbing-stairs/solution/pa-lou-ti-by-leetcode-solution/ 动态规划，但动态规划不能达到最优的时间复杂度【找时间复习数学】
+	
 	
 【课堂笔记】
 	本周数据结构：【数组】【链表】【跳表】【栈】【队列】【优先队列】【双端队列】
